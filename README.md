@@ -1,16 +1,28 @@
-# clubhouse_ui
+# <img align="left" alt=“Dart” width="40px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/waving-hand_1f44b.png" />Clubhouse UI
 
-A new Flutter project.
+<img align="left" alt=“Dart” width="20px" src="https://www.vectorlogo.zone/logos/medium/medium-icon.svg" />[Click here for medium article](https://medium.com/@umitcan/clubhouse-ui-with-flutter-4997e3c91b0a)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## The App
+<img src="https://raw.githubusercontent.com/coch82/clubhouse_ui/main/gifs_and_images/clubhouse-last.png" width="960" height="540" />
 
-A few resources to get you started if this is your first Flutter project:
+<img src="https://raw.githubusercontent.com/coch82/clubhouse_ui/main/gifs_and_images/original.gif" width="960" height="540" />
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## About
+
+
+
+
+
+Created by [Flutter](https://flutter.dev).
+
+
+
+
+
+
+
+
+
